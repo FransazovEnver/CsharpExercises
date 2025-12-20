@@ -13,3 +13,4 @@ double requiredLiters = volumeLiters * (1 - (percentage / 100));
 
 //Output
 Console.WriteLine(Math.Round(requiredLiters,2));
+//Console.WriteLine($"{requiredLiters:F2}");
